@@ -20,7 +20,7 @@
     "nodemon": "2.0.1",
     "request": "2.79.0",
     "request-promise": "4.2.2",
-    "soap": "0.24.0",
+    "soap": "0.40.0",
     "underscore": "1.9.1",
     "url": "0.11.0"
   },
